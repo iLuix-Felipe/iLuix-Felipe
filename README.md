@@ -10,15 +10,11 @@
 ## In learning:
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" heigth = "40" width="40"></img>
 
-
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" heigth = "40" width="40"></img>  
-
 
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" heigth = "40" width="40"></img>
 
-
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" heigth = "40" width="40"></img>
-
 
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" heigth = "40" width="40"></img>
 
