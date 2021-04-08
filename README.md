@@ -6,6 +6,7 @@
 ## About me: 
   <a href = "https://www.facebook.com/luizfelipe.souza.1004837/" target="_blank"><img align="center" alt = "Luiz-Facebook" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"></a>
 ## In learning:
+<img href= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" heigth = "30" width="40">
 
 <!--
 **lf-souza/lf-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
