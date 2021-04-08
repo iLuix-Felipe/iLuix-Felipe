@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Luiz Felipe 
- - Brazilian :Brazil:
- - Dev Front-End Junior :Computer:
+ - Brazilian :brazil:
+ - Dev Front-End Junior :computer:
  
 ## About me: 
   <a href = "https://www.facebook.com/luizfelipe.souza.1004837/" target="_blank"><img align="center" alt = "Luiz-Facebook" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"></a>
