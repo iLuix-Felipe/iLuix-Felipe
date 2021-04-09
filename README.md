@@ -3,8 +3,8 @@
  - Brazilian :brazil:
  - Dev Front-End Junior :computer:
  - IFRN - JC, Informática 📚 🖥️
- - 🌵 | Potiguar; 
- - 🖥️| Informática, IFRN.
+  🌵 | Potiguar; 
+  🖥️| Informática, IFRN.
  
 ## Talk to me: 
   <a href = "https://www.facebook.com/luizfelipe.souza.1004837/" target="_blank"><img align="center" alt = "Luiz-Facebook" height = "30" width = "40" src = "https://simpleicons.org/icons/facebook.svg"></img></a>
