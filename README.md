@@ -25,6 +25,16 @@
 #### - Desenvolvimentos de jogos com:
 <img src= "https://simpleicons.org/icons/unity.svg" heigth = "40" width="40"></img>
 
+<table align='center'>
+  <row>
+    <td>
+      <img height='172' src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLuix-Felipe&theme=default&layout=compact&hide_border=true">
+    </td>
+    <td>
+      <img height='172' src="https://github-readme-stats.vercel.app/api?username=iLuix-Felipe&show_icons=true&hide_border=true">
+    </td>
+  </row>
+</table>
 
 <!--
 **lf-souza/lf-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
