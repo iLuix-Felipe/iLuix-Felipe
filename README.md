@@ -1,8 +1,9 @@
 ### Hi there 👋
 ## Luiz Felipe 
  - Brazilian :brazil:
- - Dev Front-End Junior :computer:
  - IFRN - JC, Informática 📚 🖥️
+ - UERN- NATAL, C&T
+ - UFRN - Eng. Computação
 
  
 ## Talk to me: 
